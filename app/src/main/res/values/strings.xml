@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Location Analyzer</string>
+    <string name="check_location_text">Check Location</string>
+</resources>
